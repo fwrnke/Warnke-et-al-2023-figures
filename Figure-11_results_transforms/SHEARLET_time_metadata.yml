@@ -1,0 +1,16 @@
+alpha: 0.75
+decay_kind: values
+eps: 1.0e-16
+niter: 50
+p_max: 0.99
+p_min: 0.0001
+path_results: /mnt/d/scripts/packages/Warnke-et-al_2023_figures/Figure-11_results_transforms/TIME_SHEARLET_iterations.txt
+results_dict:
+  niterations: 50
+  runtime: 33.371
+sqrt_decay: false
+thresh_model: exponential-1
+thresh_op: hard
+transform_kind: SHEARLET
+verbose: true
+version: fast

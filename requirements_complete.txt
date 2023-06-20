@@ -1,0 +1,7 @@
+# complete dependencies
+
+-r requirements.txt
+-r requirements_data.txt
+-r requirements_tide.txt
+-r requirements_transforms.txt
+-r requirements_3D_viz.txt

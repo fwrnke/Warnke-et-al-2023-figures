@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="flowchart_full-workflow_PPT.svg"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_150dpi.png"
+   inkscape:export-xdpi="149.95"
+   inkscape:export-ydpi="149.95"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-others="true"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="0.94693902"
+     inkscape:cx="412.38136"
+     inkscape:cy="187.97409"
+     inkscape:window-width="1848"
+     inkscape:window-height="1136"
+     inkscape:window-x="1992"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path65707" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path65710" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path65704" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path65589" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="one-column"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.237662"
+       id="rect846"
+       width="89.986336"
+       height="135.10533"
+       x="5.1188316"
+       y="5.1188316" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="flowchart_background">
+    <rect
+       style="fill:#ececec;stroke:none;stroke-width:0.25866"
+       id="rect29976"
+       width="130"
+       height="49"
+       x="7.136785"
+       y="16.149368"
+       ry="1.5331157"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <rect
+       style="fill:#cccccc;stroke:none;stroke-width:0.119287"
+       id="rect29976-2"
+       width="64.880707"
+       height="20.880713"
+       x="139.78258"
+       y="30.209013"
+       ry="2.9199669"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;fill-opacity:1;stroke:#808080;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-51.526676"
+       y="5.3089914"
+       id="text42977"
+       transform="matrix(0,-1.0085075,0.99156427,0,0,0)"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan42975"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ececec;fill-opacity:1;stroke:#808080;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-51.526676"
+         y="5.3089914">2D processing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none"
+       x="33.255974"
+       y="-207.95979"
+       id="text42977-3"
+       transform="matrix(0,1.0085075,-0.99156427,0,0,0)"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan42975-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:0.15;stroke-miterlimit:4;stroke-dasharray:none"
+         x="33.255974"
+         y="-207.95979">3D</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 39.420437,14.104647 -0.01734,47.94589"
+       id="path92486"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 39.403097,62.050625 2e-4,2.904381 v 0"
+       id="path92603"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 103.98694,22.94141 V 57.495739"
+       id="path92486-9"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 103.98694,57.495739 -0.008,4.242985 v 0"
+       id="path92603-4"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="flowchart">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect969"
+       width="29.608681"
+       height="7.0046473"
+       x="24.616276"
+       y="7.0999999"
+       ry="1.986939"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="31.486389"
+       y="11.943132"
+       id="text2263"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="31.486389"
+         y="11.943132">raw data</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect969-1"
+       width="29.608681"
+       height="7.0046473"
+       x="157.41808"
+       y="55.718086"
+       ry="1.986939"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="161.42123"
+       y="60.561226"
+       id="text2263-2"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.59657px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.224786"
+         x="161.42123"
+         y="60.561226">3D volume</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.178724"
+       id="rect969-6"
+       width="59.292175"
+       height="6.9526911"
+       x="9.7745676"
+       y="18.257982"
+       ry="0.5479731"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="22.890129"
+       y="22.726543"
+       id="text2263-7"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-5"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="22.890129"
+         y="22.726543">SEG-Y file merging</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.178724"
+       id="rect969-6-3"
+       width="59.292175"
+       height="6.9526911"
+       x="9.7570086"
+       y="27.476089"
+       ry="0.5479731"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="18.506809"
+       y="31.944653"
+       id="text2263-7-5"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-5-6"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="18.506809"
+         y="31.944653">coordinate reprojection</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.178724"
+       id="rect969-6-3-2"
+       width="59.292175"
+       height="6.9526911"
+       x="9.7570086"
+       y="36.696743"
+       ry="0.5479731"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="15.073561"
+       y="41.16531"
+       id="text2263-7-5-9"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-5-6-1"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="15.073561"
+         y="41.16531"><tspan
+   style="font-style:italic;stroke-width:0.224786"
+   id="tspan11846">delrt</tspan> correction (byte: 109)</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.178724"
+       id="rect969-6-3-2-2"
+       width="59.292175"
+       height="6.9526911"
+       x="9.7570066"
+       y="45.897297"
+       ry="0.5479731"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="15.393177"
+       y="50.36586"
+       id="text2263-7-5-9-7"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-5-6-1-0"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="15.393177"
+         y="50.36586">trace padding (using <tspan
+   style="font-style:italic;stroke-width:0.224786"
+   id="tspan19783">delrt</tspan>)</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.178724"
+       id="rect969-6-3-2-2-3"
+       width="59.292175"
+       height="6.9526911"
+       x="9.7570066"
+       y="55.097847"
+       ry="0.5479731"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="24.913166"
+       y="59.566418"
+       id="text2263-7-5-9-7-6"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-5-6-1-0-0"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="24.913166"
+         y="59.566418">static correction</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.178724"
+       id="rect969-6-3-2-2-3-2"
+       width="59.292175"
+       height="6.9526911"
+       x="74.340858"
+       y="22.94141"
+       ry="0.5479731"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="80.277328"
+       y="27.409969"
+       id="text2263-7-5-9-7-6-6"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-5-6-1-0-0-1"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="80.277328"
+         y="27.409969">trace envelope calculation</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.178724"
+       id="rect969-6-3-2-2-3-2-8"
+       width="59.292175"
+       height="6.9526911"
+       x="74.340858"
+       y="32.141956"
+       ry="0.5479731"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="92.269951"
+       y="36.610523"
+       id="text2263-7-5-9-7-6-6-7"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-5-6-1-0-0-1-9"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="92.269951"
+         y="36.610523">2D despiking</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.178724"
+       id="rect969-6-3-2-2-3-2-2"
+       width="59.292175"
+       height="6.9526911"
+       x="74.340858"
+       y="41.34251"
+       ry="0.5479731"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 103.98674,19.095514 2e-4,3.845896 v 0"
+       id="path92603-4-8"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.750361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 172.22286,29.492509 -4.5e-4,24.097782"
+       id="path92486-9-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 172.22266,25.646613 2e-4,3.845896 v 0"
+       id="path92603-4-8-0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="87.355446"
+       y="46.159664"
+       id="text2263-7-5-9-7-6-6-0"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-5-6-1-0-0-1-2"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="87.355446"
+         y="46.159664">tide compensation</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.178724"
+       id="rect969-6-3-2-2-3-2-2-7"
+       width="59.292175"
+       height="6.9526911"
+       x="74.340858"
+       y="50.543049"
+       ry="0.5479731"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="88.869202"
+       y="55.360203"
+       id="text2263-7-5-9-7-6-6-0-5"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-5-6-1-0-0-1-2-9"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="88.869202"
+         y="55.360203">mistie correction</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.178724"
+       id="rect969-6-3-2-2-3-2-2-7-2"
+       width="59.292175"
+       height="6.9526911"
+       x="142.57678"
+       y="32.667511"
+       ry="0.5479731"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.178724"
+       id="rect969-6-3-2-2-3-2-2-7-2-7"
+       width="59.292175"
+       height="6.9526911"
+       x="142.57678"
+       y="42.266022"
+       ry="0.5479731"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="155.14334"
+       y="37.13607"
+       id="text2263-7-5-9-7-6-6-0-5-8"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-5-6-1-0-0-1-2-9-9"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="155.14334"
+         y="37.13607">inline/xline binning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.59657px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224786"
+       x="155.14334"
+       y="46.734596"
+       id="text2263-7-5-9-7-6-6-0-5-8-3"
+       inkscape:export-filename="/media/fwar378/WORK_PHD/PhD/processing/_figures/000_flowchart_workflow/flowchart_full-workflow_PPT_150dpi.png"
+       inkscape:export-xdpi="149.82451"
+       inkscape:export-ydpi="149.82451"><tspan
+         sodipodi:role="line"
+         id="tspan2261-5-6-1-0-0-1-2-9-9-6"
+         style="font-size:3.59657px;stroke-width:0.224786"
+         x="155.14334"
+         y="46.734596">data interpolation</tspan></text>
+  </g>
+</svg>

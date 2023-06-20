@@ -1,0 +1,9 @@
+# PREREQUISITE
+-r requirements.txt
+
+# DATA
+xarray[complete]
+xrft
+h5netcdf
+dask[complete]
+segyio

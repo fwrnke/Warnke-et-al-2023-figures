@@ -1,0 +1,6 @@
+# PREREQUISITE
+-r requirements_data.txt
+
+# TRANSFORMS
+PyWavelets
+pyshearlets @ git+https://github.com/fwrnke/PyShearlets.git

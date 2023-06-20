@@ -1,0 +1,16 @@
+name: figures
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - cmocean
+  - python=3.9
+  - xarray
+  - xrft
+  - h5netcdf
+  - dask
+  - segyio
+prefix: 

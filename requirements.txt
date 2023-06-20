@@ -1,0 +1,9 @@
+# MINIMUM REQUIREMENTS
+
+python_version >= 3.9
+
+numpy
+pandas
+matplotlib
+scipy
+cmocean

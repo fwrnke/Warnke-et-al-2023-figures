@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.pydocstringformatter]
+style = "numpydoc"
+max-line-length = 100
+
+[tool.black]
+line-length = 100
+skip-string-normalization = true

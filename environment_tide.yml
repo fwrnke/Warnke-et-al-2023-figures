@@ -1,0 +1,20 @@
+name: figures
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - cmocean
+  - python=3.9
+  - xarray
+  - xrft
+  - h5netcdf
+  - dask
+  - segyio
+  - pip
+  - git
+  - pip:
+    - git+https://github.com/fwrnke/tpxo-tide-prediction.git
+prefix: 

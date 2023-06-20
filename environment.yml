@@ -1,0 +1,11 @@
+name: figures
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - cmocean
+  - python=3.9
+prefix: 

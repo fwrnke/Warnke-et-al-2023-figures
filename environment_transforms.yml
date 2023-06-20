@@ -1,0 +1,21 @@
+name: figures
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - cmocean
+  - python=3.9
+  - xarray
+  - xrft
+  - h5netcdf
+  - dask
+  - segyio
+  - pip
+  - git
+  - pywavelets
+  - pip:
+    - git+https://github.com/fwrnke/PyShearlets.git
+prefix: 

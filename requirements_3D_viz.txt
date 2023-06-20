@@ -1,0 +1,7 @@
+# PREREQUISITE
+-r requirements_data.txt
+
+# 3D viz
+rioxarray
+pyproj   
+pyvista
